@@ -1,6 +1,8 @@
 # NLW Journey (Python/Flask)
 
-This application was developed during **[Rocketseat](https://www.rocketseat.com.br/)'s NLW Journey** course.
+This application was developed during **[Rocketseat](https://www.rocketseat.com.br/)'s NLW Journey** course.    
+It aims to help users organize trips for work or leisure. Users can create a journey with a name, start date, and end date. 
+Users can plan their activities within each trip by adding things to do for each day.
 
 ## Creating Database:
 ```sql
